@@ -1,10 +1,12 @@
 # A Large-Scale Benchmark for Vietnamese Sentence Paraphrases
 
-
-
 ## Introduction
 
 Paraphrasing involves rewriting sentences with different words while preserving the original meaning. It is a vital technique in NLP, supporting various tasks such as Question Answering, Information Retrieval, Machine Translation, and Chatbots. However, Vietnamese remains a low-resource language, and existing paraphrase resources mostly focus on English or contain only small, often automatically translated Vietnamese data.
+
+<p align="center">
+  <img src=".resources/sample.png" />
+</p>
 
 ViSP addresses this gap by providing a large-scale dataset of over 1.2 million Vietnamese sentence pairs from diverse topics. Each original sentence is accompanied by multiple paraphrases, all manually verified to ensure quality. We also evaluate various paraphrase generation methods—including rule-based approaches, back translation, and neural models—comparing them against human performance to highlight their strengths and limitations.
 
@@ -34,12 +36,13 @@ Each ViSP sample has the following format
 }
 ```
 
-## Usages
 Details of the dataset construction and experimental results can be found in our [NAACL 2025]() paper:
+
+Please CITE our paper when ViSP is used to help produce published results or is incorporated into other software.
 ```
 ```
 
-Please follow this [LINK]() to download the PhoMT dataset. By downloading this dataset, USER agrees:
+Please follow this [LINK]() to download the ViSP dataset. By downloading this dataset, USER agrees:
 - to use the dataset for research or educational purposes only.
 - to cite our NAACL 2025 paper "A Large-Scale Benchmark for Vietnamese Sentence Paraphrases" whenever the dataset is used to help produce published results.
 
