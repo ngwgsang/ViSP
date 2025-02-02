@@ -1,5 +1,7 @@
 # A Large-Scale Benchmark for Vietnamese Sentence Paraphrases
 
+
+
 ## Introduction
 
 Paraphrasing involves rewriting sentences with different words while preserving the original meaning. It is a vital technique in NLP, supporting various tasks such as Question Answering, Information Retrieval, Machine Translation, and Chatbots. However, Vietnamese remains a low-resource language, and existing paraphrase resources mostly focus on English or contain only small, often automatically translated Vietnamese data.
