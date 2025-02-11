@@ -42,7 +42,7 @@ Please CITE our paper when ViSP is used to help produce published results or is 
 ```
 ```
 
-Please follow this [LINK]() to download the ViSP dataset. By downloading this dataset, USER agrees:
+Please follow this [LINK](https://github.com/ngwgsang/ViSP/tree/main/data) to download the ViSP dataset. By downloading this dataset, USER agrees:
 - to use the dataset for research or educational purposes only.
 - to cite our NAACL 2025 paper "A Large-Scale Benchmark for Vietnamese Sentence Paraphrases" whenever the dataset is used to help produce published results.
 
