@@ -1,0 +1,390 @@
+[
+    {
+        "id": "6d5acd98-23ac-49e1-a120-76cf35c796ae",
+        "source": "ViNLI",
+        "topic": "science",
+        "original": "Đầu tiên, những nguồn năng lượng quan trọng như ánh sáng Mặt Trời và gió khá yếu do áp suất khí quyển thấp.",
+        "paraphrases": [
+            {
+                "para_id": "para-066f4dd4-1e17-4464-a50a-0ab5e4db34b5",
+                "text": "Áp suất khí quyển thấp khiến những nguồn năng lượng quan trọng như ánh sáng Mặt Trời và gió trở nên yếu hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-d53325de-7ed3-4bd5-b694-94dd3ca53523",
+                "text": "Do áp suất khí quyển thấp, những nguồn năng lượng quan trọng như ánh sáng Mặt Trời và gió trở nên yếu đi.",
+                "type": [
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-c31a4446-56b0-4aab-bc5b-6e8356d80031",
+                "text": "Những nguồn năng lượng quan trọng như ánh sáng Mặt Trời và gió bị yếu đi bởi vì áp suất khí quyển thấp.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-e066942d-1992-419e-b34d-8e1c2e152803",
+                "text": "Áp suất khí quyển thấp khiến ánh sáng Mặt Trời và gió, những nguồn năng lượng quan trọng, trở nên yếu đi.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-c0082e2a-a08a-4dc0-8e82-f76ee01d7e92",
+                "text": "Bởi vì áp suất khí quyển thấp, các nguồn năng lượng chủ chốt như ánh sáng Mặt Trời và gió không thể phát huy hết tiềm năng.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-af845c1e-48ce-4d5c-8a45-b4dbd1796a79",
+                "text": "Áp suất khí quyển thấp làm giảm hiệu quả khai thác năng lượng từ các nguồn quan trọng như ánh sáng Mặt Trời và gió.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-5376dad8-f9c2-45ed-adec-63f7daef2439",
+                "text": "Sự hạn chế về áp suất khí quyển khiến năng lượng từ những nguồn quan trọng như ánh sáng Mặt Trời và gió bị suy giảm đáng kể.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-16ec8f2f-4038-4c0b-b3cc-926189eb583a",
+                "text": "Áp suất khí quyển thấp là nguyên nhân chính dẫn đến việc ánh sáng Mặt Trời và gió, những nguồn năng lượng quan trọng, bị suy yếu.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-c1cf7944-e233-4434-a97c-5c06164219f0",
+                "text": "Áp suất khí quyển thấp gây ảnh hưởng đáng kể đến năng suất của các nguồn năng lượng quan trọng như ánh sáng Mặt Trời và gió.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-fff59624-b1af-4092-97b0-b2aa8a0a99bb",
+                "text": "Do áp suất khí quyển thấp, ánh sáng Mặt Trời và gió, vốn là những nguồn năng lượng chính, không thể phát huy tối đa tiềm năng.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ee94728a-822d-4054-8961-119c7f9fc657",
+        "source": "ViNLI",
+        "topic": "business",
+        "original": "Doanh nghiệp thu về hơn 1,6 tỷ USD trong quý I, nhiều nhất kể từ năm 2018.",
+        "paraphrases": [
+            {
+                "para_id": "para-6e63d9bf-57fb-402b-b278-1fdc15ff5d4a",
+                "text": "Doanh thu của doanh nghiệp trong quý I đạt hơn 1,6 tỷ USD, mức cao nhất kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-9f8426a2-f4cf-40be-8d4c-6eff139772ee",
+                "text": "Doanh nghiệp đã đạt được doanh thu hơn 1,6 tỷ USD trong quý I, mức cao nhất trong vòng 5 năm qua.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-7b0729a7-821f-4f10-a9f5-94cb46261704",
+                "text": "Quý I năm nay, doanh nghiệp đã đạt được mức doanh thu cao nhất từ năm 2018, với hơn 1,6 tỷ USD.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-7d6b95bd-fe52-4510-b732-bd76634c8ef7",
+                "text": "Doanh thu của doanh nghiệp trong quý I đã vượt qua mức 1,6 tỷ USD, đạt mức cao nhất kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-73731bb7-2799-499d-97e6-d8a819b66672",
+                "text": "Doanh nghiệp đã đạt mức doanh thu kỷ lục trong quý I, với hơn 1,6 tỷ USD, đây là mức doanh thu cao nhất kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-bf6c0c8c-b4ac-4bf3-b103-6857996d5596",
+                "text": "Doanh thu của doanh nghiệp trong quý I đạt hơn 1,6 tỷ USD, mức cao nhất kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-84d62c57-a390-4a78-9b45-fe95e1db6dff",
+                "text": "Doanh nghiệp ghi nhận doanh thu hơn 1,6 tỷ USD trong quý I, mức cao chưa từng có kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-f2c078d9-9256-497e-8645-a49107fcf4b7",
+                "text": "Doanh nghiệp đạt doanh thu kỷ lục trong quý I với hơn 1,6 tỷ USD, cao nhất kể từ năm 2018.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-74360f16-0d32-4350-8669-b38e50dfcf87",
+                "text": "Doanh thu quý I của doanh nghiệp đạt mức cao nhất kể từ năm 2018, với hơn 1,6 tỷ USD.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-13a59d2f-4fbb-4e2c-ada7-e23e393f0764",
+                "text": "Doanh thu quý I của doanh nghiệp đạt mốc 1,6 tỷ USD, cao nhất trong 5 năm trở lại đây.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8ddb0ec2-c08f-48c3-9a3c-8b24396d5895",
+        "source": "ViNLI",
+        "topic": "politics_society",
+        "original": "Họ cũng yêu cầu hỗ trợ từ Liên Hợp Quốc trước nguy cơ bùng phát lây nhiễm.",
+        "paraphrases": [
+            {
+                "para_id": "para-dc006dcc-a72e-40f0-8a0b-e6f3096eb219",
+                "text": "Họ đã kêu gọi Liên Hợp Quốc hỗ trợ trước nguy cơ lây nhiễm bùng phát.",
+                "type": [
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-526417a0-504c-424d-a6b1-5f9304de3b6f",
+                "text": "Họ đã kiến nghị Liên Hợp Quốc trợ giúp để đối phó với nguy cơ dịch bệnh lan rộng.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-8b6d73ed-fc59-41e1-a783-8986ddf9c6d8",
+                "text": "Họ đã đề nghị Liên Hợp Quốc hỗ trợ trong bối cảnh nguy cơ lây nhiễm gia tăng.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-dbd18097-c852-46b9-800d-73f95ca1e52f",
+                "text": "Họ đã yêu cầu sự hỗ trợ từ Liên Hợp Quốc trước mối nguy hiểm của sự bùng phát dịch bệnh.",
+                "type": [
+                    "morpholexicon_based"
+                ]
+            },
+            {
+                "para_id": "para-9018adb2-16de-460d-a89a-ce31903d4e79",
+                "text": "Họ cũng đã đề nghị sự giúp đỡ từ Liên Hợp Quốc để ứng phó với nguy cơ dịch bệnh bùng phát.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-5f0bb512-fb2d-439e-81a6-5963ea6cb6b0",
+                "text": "Họ đã tìm kiếm sự trợ giúp từ Liên Hợp Quốc để đối mặt với khả năng dịch bệnh lan rộng.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "583ff634-d808-4c25-8081-d5871848ecda",
+        "source": "ViNLI",
+        "topic": "health",
+        "original": "Ít nhất 269 bác sĩ, trung bình 20-25 người mỗi ngày, tử vong khi làn sóng Covid-19 thứ hai tấn công Ấn Độ.",
+        "paraphrases": [
+            {
+                "para_id": "para-1d3810cc-78e2-4eb7-bf33-e4b9b815e484",
+                "text": "Ít nhất 269 bác sĩ đã qua đời trong làn sóng Covid-19 thứ hai ở Ấn Độ, tương đương với khoảng 20-25 người mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-b68a6adc-b00d-4e62-853b-56a34e853486",
+                "text": "Làn sóng Covid-19 thứ hai ở Ấn Độ đã cướp đi sinh mạng của ít nhất 269 bác sĩ, trung bình khoảng 20-25 người tử vong mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-69dd6921-f5e3-450d-8db7-695a0943ba3d",
+                "text": "Số lượng bác sĩ tử vong trong làn sóng Covid-19 thứ hai ở Ấn Độ lên đến 269 người, với trung bình 20-25 người tử vong mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-17374391-3fce-4647-a252-196bb7e4edbb",
+                "text": "Làn sóng Covid-19 thứ hai ở Ấn Độ đã gây ra cái chết của ít nhất 269 bác sĩ, với tốc độ trung bình 20-25 người mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-e1c6641f-29f4-4e31-a714-925778098ff2",
+                "text": "Trong làn sóng Covid-19 thứ hai ở Ấn Độ, ít nhất 269 bác sĩ đã tử vong, trung bình 20-25 người mỗi ngày.",
+                "type": [
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-3a3a2a5d-349c-401f-ad88-dda1754bc653",
+                "text": "Làn sóng Covid-19 thứ hai tàn phá Ấn Độ đã cướp đi sinh mạng của ít nhất 269 bác sĩ, với tốc độ trung bình 20-25 người mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-019a98f9-7729-4566-81a6-7dd9e9ff8ffd",
+                "text": "Làn sóng Covid-19 thứ hai ở Ấn Độ đã khiến ít nhất 269 bác sĩ thiệt mạng, tương đương với khoảng 20-25 bác sĩ tử vong mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-b1ba62e7-ffbc-4d75-b484-1b30e80b535f",
+                "text": "Làn sóng Covid-19 thứ hai ở Ấn Độ đã cướp đi sinh mạng của 269 bác sĩ, với tỷ lệ tử vong trung bình 20-25 người mỗi ngày.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2d7d5e0f-dfe5-489d-8dbe-49281cc768ac",
+        "source": "ViNLI",
+        "topic": "health",
+        "original": "Bệnh viện có quy mô 300 giường bệnh và có thể nâng lên 500 giường trong tình hình dịch bệnh phức tạp hơn.",
+        "paraphrases": [
+            {
+                "para_id": "para-064a79a7-2d08-4356-816d-028cb9546acc",
+                "text": "Bệnh viện hiện có 300 giường bệnh và có khả năng tăng lên 500 giường trong trường hợp dịch bệnh diễn biến phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-1fe75cfd-dde0-486e-993e-da2a1628daec",
+                "text": "Bệnh viện có quy mô 300 giường bệnh và có thể mở rộng lên 500 giường khi tình hình dịch bệnh trở nên nghiêm trọng hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-f377d3d2-92f8-4f40-a7bd-d854fd36d925",
+                "text": "Bệnh viện được thiết kế với 300 giường bệnh và có thể nâng cấp lên 500 giường nếu dịch bệnh diễn biến phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-ebf6bee9-a6f8-489e-bbfe-6bffb1b2437c",
+                "text": "Bệnh viện này có sức chứa 300 giường bệnh và có thể tăng lên 500 giường trong trường hợp dịch bệnh phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-67ed1d39-eb97-430f-9103-551313f0a40c",
+                "text": "Bệnh viện được trang bị 300 giường bệnh và có khả năng mở rộng lên 500 giường nếu tình hình dịch bệnh đòi hỏi.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-304d8413-03bf-4c17-9e3e-e9aee5b54689",
+                "text": "Bệnh viện hiện có 300 giường bệnh, có thể được mở rộng lên 500 giường nếu tình hình dịch bệnh diễn biến phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-5a943eee-bb10-4be1-8066-58be11773197",
+                "text": "Bệnh viện có khả năng tiếp nhận 300 bệnh nhân cùng lúc và có thể tăng lên 500 giường trong trường hợp dịch bệnh bùng phát mạnh hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-bded4d2e-a2de-40c5-a5f4-93dcfd5f0a4f",
+                "text": "Bệnh viện có công suất 300 giường bệnh và có thể nâng cấp lên 500 giường nếu dịch bệnh có diễn biến phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-9a1b3e63-fa52-40fa-a196-2e2526f1ea0e",
+                "text": "Bệnh viện này sở hữu 300 giường bệnh và có tiềm năng mở rộng lên 500 giường nếu cần thiết trong trường hợp dịch bệnh diễn biến phức tạp hơn.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            },
+            {
+                "para_id": "para-2d3cca88-54ef-4a17-8752-9d3f77b646f1",
+                "text": "Bệnh viện hiện tại có 300 giường bệnh và có tiềm năng mở rộng lên 500 giường nếu tình hình dịch bệnh đòi hỏi.",
+                "type": [
+                    "morpholexicon_based",
+                    "structure_based"
+                ]
+            }
+        ]
+    }
+]
