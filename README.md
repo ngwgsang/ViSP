@@ -40,6 +40,12 @@ Details of the dataset construction and experimental results can be found in our
 
 Please CITE our paper when ViSP is used to help produce published results or is incorporated into other software.
 ```
+@article{nguyen2025large,
+  title={A Large-Scale Benchmark for Vietnamese Sentence Paraphrases},
+  author={Nguyen, Sang Quang and Van Nguyen, Kiet},
+  journal={arXiv preprint arXiv:2502.07188},
+  year={2025}
+}
 ```
 
 Please follow this [LINK](https://github.com/ngwgsang/ViSP/tree/main/data) to download the ViSP dataset. By downloading this dataset, USER agrees:
