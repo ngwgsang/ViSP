@@ -36,15 +36,26 @@ Each ViSP sample has the following format
 }
 ```
 
-Details of the dataset construction and experimental results can be found in our [NAACL 2025]() paper:
+Details of the dataset construction and experimental results can be found in our [NAACL 2025](https://aclanthology.org/2025.findings-naacl.59/) paper:
 
 Please CITE our paper when ViSP is used to help produce published results or is incorporated into other software.
 ```
-@article{nguyen2025large,
-  title={A Large-Scale Benchmark for Vietnamese Sentence Paraphrases},
-  author={Nguyen, Sang Quang and Van Nguyen, Kiet},
-  journal={arXiv preprint arXiv:2502.07188},
-  year={2025}
+@inproceedings{nguyen-nguyen-2025-large,
+    title = "A Large-Scale Benchmark for {V}ietnamese Sentence Paraphrases",
+    author = "Nguyen, Sang Quang  and
+      Nguyen, Kiet Van",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.59/",
+    pages = "1045--1060",
+    ISBN = "979-8-89176-195-7",
+    abstract = "This paper presents ViSP, a high-quality Vietnamese dataset for sentence paraphrasing, consisting of 1.2M original{--}paraphrase pairs collected from various domains. The dataset was constructed using a hybrid approach that combines automatic paraphrase generation with manual evaluation to ensure high quality. We conducted experiments using methods such as back-translation, EDA, and baseline models like BART and T5, as well as large language models (LLMs), including GPT-4o, Gemini-1.5, Aya, Qwen-2.5, and Meta-Llama-3.1 variants. To the best of our knowledge, this is the first large-scale study on Vietnamese paraphrasing. We hope that our dataset and findings will serve as a valuable foundation for future research and applications in Vietnamese paraphrase tasks. The dataset is available for research purposes at \url{https://github.com/ngwgsang/ViSP}."
 }
 ```
 
