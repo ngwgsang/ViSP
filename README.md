@@ -36,6 +36,63 @@ Each ViSP sample has the following format
 }
 ```
 
+## Models Used in Experiments
+
+The models used in our experiments can be found at [LINK](https://huggingface.co/collections/ngwgsang/visp-66ec240d6865fea132a3cb98).  
+Below is a simple description of how we used them:
+
+```python
+import torch
+from transformers import pipeline
+
+# Set device to GPU if available, else fallback to CPU
+device = 0 if torch.cuda.is_available() else -1
+
+# Choose a fine-tuned model for ViSP paraphrasing
+model_name = "ngwgsang/vit5-base-visp-s1"  # You can change to any other ViSP model
+
+# Initialize the text2text generation pipeline
+paraphraser = pipeline(
+    "text2text-generation",
+    model=model_name,
+    tokenizer=model_name,
+    device=device
+)
+
+# Input sentence for paraphrasing
+sentence = "Hạnh phúc là khi ta biết đủ với những gì mình đang có."
+
+# Prepend task prefix as expected by the model
+prompt = f"sentence-paraphrase: {sentence}"
+
+# Run the model to generate paraphrases
+outputs = paraphraser(
+    prompt,
+    max_length=96,
+    num_beams=5,
+    do_sample=True,
+    # temperature=0.9,
+    # top_k=50,
+    # top_p=0.95,
+    num_return_sequences=3,
+    early_stopping=True
+)
+
+# Display input and generated paraphrases
+print(f"Input: {sentence}\n")
+print("Generated Paraphrases:")
+for i, o in enumerate(outputs, 1):
+    print(f"{i}. {o['generated_text']}")
+
+# >>> Input: Hạnh phúc là khi ta biết đủ với những gì mình đang có.
+# Generated Paraphrases:
+# 1. Hạnh phúc là khi ta biết trân trọng những gì mình đang có.
+# 2. Hạnh phúc là khi ta biết hài lòng với những gì mình đang có.
+# 3. Hạnh phúc là khi ta biết đủ với những gì mình đang có.
+```
+
+## Citation
+
 Details of the dataset construction and experimental results can be found in our [NAACL 2025](https://aclanthology.org/2025.findings-naacl.59/) paper:
 
 Please CITE our paper when ViSP is used to help produce published results or is incorporated into other software.
@@ -62,4 +119,3 @@ Please CITE our paper when ViSP is used to help produce published results or is 
 Please follow this [LINK](https://github.com/ngwgsang/ViSP/tree/main/data) to download the ViSP dataset. By downloading this dataset, USER agrees:
 - to use the dataset for research or educational purposes only.
 - to cite our NAACL 2025 paper "A Large-Scale Benchmark for Vietnamese Sentence Paraphrases" whenever the dataset is used to help produce published results.
-
